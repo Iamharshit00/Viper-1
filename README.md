@@ -134,3 +134,21 @@ This project is provided for educational and personal use.
 Developed by **Harshit Singh Chauhan**.
 
 If you find this project useful, consider giving it a ⭐ on GitHub.
+
+## ⚠️ Disclaimer
+
+This project is **very, very, very dumb** right now 😄.
+
+Viper-1 is an early-stage local AI project that is still under development. Don't expect responses anywhere close to ChatGPT or other large commercial AI assistants.
+
+Current limitations include:
+
+* 🧠 Limited reasoning ability
+* 🤖 Can make incorrect or nonsensical responses
+* 💬 Small vocabulary and understanding compared to larger models
+* 🚧 Many features are still work in progress
+* ⚡ Performance depends on your hardware and the model being used
+
+The goal of this project is to learn, experiment, and improve over time. Every update will make Viper-1 smarter than before.
+
+If you encounter bugs or strange responses, feel free to open an issue or contribute to the project!
